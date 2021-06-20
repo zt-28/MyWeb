@@ -1,0 +1,52 @@
+#Body{
+	padding: 0;
+	margin: auto;		
+	overflow-x: hidden;
+}
+
+#back{
+	width: 100%;
+	height: auto;
+	background-color: #eef1f1;
+}
+
+#center{
+	width:1460px;
+	height:200px;
+	margin-left: 35px;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background:url(../Image/logo.png);
+	background-size: cover;
+}
+
+
+#head{
+	width: 1460px;
+	height:60px;
+	margin-left:  37px;
+	margin-right:  30px;
+	background-color: rgb(89, 145, 219);
+	float: left;
+}
+
+
+
+
+#img{
+	display: block;
+}
+
+
+
+
+#video{
+	width: 1460px;
+	height: 500px;
+	margin-top: 50px;
+	margin-left:  30px;
+	margin-right:  30px;
+	background-color: white;
+	float: left;
+}

@@ -1,0 +1,61 @@
+#pic1{
+	width: 300px;
+	height:370px;
+	margin-left:  50px;
+	margin-right:  30px;
+	float: left;
+}
+#jianjie1{
+	width: 280px;
+	height: 370px;
+	margin-left:  30px;
+	margin-right:  30px;
+	float: left;
+}
+
+#pic2{
+	width: 300px;
+	height:370px;
+	margin-left:  30px;
+	margin-right:  50px;
+	float: right;
+}
+#jianjie2{
+	width: 280px;
+	height: 370px;
+	margin-left:  30px;
+	margin-right:  30px;
+	float: right;
+}
+
+#left{
+width: 700px;
+height: 100%;
+margin-top: 0;
+margin-bottom: 0;
+margin-left: 0;
+margin-right:  0px;
+float: left;
+}
+
+#right{
+width: 700px;
+height: 100%;
+margin-top: 0;
+margin-bottom: 0;
+margin-left: 20px;
+margin-right:  0px;
+float: right;
+}
+
+#clj{
+width: 1000px;
+height: 200px;
+margin-top: 50px;
+margin-left: 100px;
+float: left;	
+}
+
+#img{
+display: block;
+}
